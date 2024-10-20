@@ -1,3 +1,7 @@
-*{
-  background-color: black
+html, body {
+  height: 100%; /* Ensures the body covers the full height */
+  margin: 0;    /* Removes default margin */
+  background-color: black; /* Sets the background color to black */
+  color: white;  /* Optional: Sets text color to white for contrast */
+  font-family: Arial, sans-serif; /* Optional: Sets a font for better appearance */
 }
